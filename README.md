@@ -1,1 +1,23 @@
 # Q
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+---
+
+## Dual License Notice
+
+This project is licensed under the Apache License 2.0 for the open-source core.
+
+⚡️ **Commercial Use:**  
+Certain advanced modules, features, plugins, or hosted services are **proprietary** and require a **separate commercial license** with [Marcelle de Beer].
+
+By using or distributing the open-source core, you agree to the Apache License 2.0.
+
+To use proprietary parts, you must have a valid commercial agreement with M - dbmarcelle@yahoo.com 
+
+Contact: [dbmarcelle@yahoo.com]
+
+Copyright (c) 2025/06/28
+Marcelle de Beer. All rights reserved.
